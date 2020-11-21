@@ -74,7 +74,7 @@ fs.unlink('2.txt', err => {
 })
 ```
 
-fs.copyFile(src, dest[, mode], callback) 复制文件  先读取后写入 [文档说明](http://nodejs.cn/api/fs.html#fs_fs_copyfile_src_dest_mode_callback)
+**fs.copyFile(src, dest[, mode], callback) 复制文件  先读取后写入** [文档说明](http://nodejs.cn/api/fs.html#fs_fs_copyfile_src_dest_mode_callback)
 
 ```js
 fs.copyFile('index.js', 'myindex.js', err => {

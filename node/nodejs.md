@@ -1,5 +1,7 @@
 # Nodejs
 
+nodejs是一个基于chrome V8引擎的 JavaScript 运行时
+
 ## 1 入门
 
 创建一个简单的服务
